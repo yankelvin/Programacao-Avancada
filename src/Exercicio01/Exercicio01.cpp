@@ -184,6 +184,8 @@ void questao07(int n)
 
 int main()
 {
+	setlocale(LC_ALL, "pt-Br");
+
 	cout << "Informe o número do exercício: ";
 	int num;
 	cin >> num;
