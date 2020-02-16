@@ -1,0 +1,10 @@
+﻿  Exercicio04.cpp
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(11,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(21,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(22,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(27,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(28,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(35,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(39,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Code\Cpp\Programacao-Avancada\src\Exercicio04\Exercicio04.cpp(40,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Exercicio04.vcxproj -> D:\Code\Cpp\Programacao-Avancada\Debug\Exercicio04.exe
