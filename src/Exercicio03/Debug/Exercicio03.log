@@ -1,7 +1,1 @@
-﻿  Exercicio03.cpp
-D:\Code\Cpp\Programacao-Avancada\src\Exercicio03\Exercicio03.cpp(24,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Code\Cpp\Programacao-Avancada\src\Exercicio03\Exercicio03.cpp(27,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Code\Cpp\Programacao-Avancada\src\Exercicio03\Exercicio03.cpp(30,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Code\Cpp\Programacao-Avancada\src\Exercicio03\Exercicio03.cpp(33,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Code\Cpp\Programacao-Avancada\src\Exercicio03\Exercicio03.cpp(42,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-  Exercicio03.vcxproj -> D:\Code\Cpp\Programacao-Avancada\Debug\Exercicio03.exe
+﻿
